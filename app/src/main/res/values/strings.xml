@@ -3,4 +3,9 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="startup_dialog_title">Connect to a server?</string>
+    <string name="startup_dialog_message">Would you like to connect to a MgaServer or scan for comic files stored locally?</string>
+    <string name="add_server">Add Server</string>
+    <string name="standalone_mode">Standalone Mode</string>
 </resources>
